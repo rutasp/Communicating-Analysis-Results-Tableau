@@ -1,5 +1,7 @@
 # Interactive Dashboard with Tableau
 
+Check out the live dashboard here: [Tableau project](https://public.tableau.com/shared/55DDX9SWJ?:display_count=n&:origin=viz_share_link)
+
 This project is part of the Data Analytics course at Turing College. The goal is to create a dynamic and user-friendly sales dashboard using Tableau Public, based on the AdventureWorks company dataset. The focus is on building a dashboard that provides business-relevant insights and supports decision-making for the Sales department.
 
 ## Tools Used
