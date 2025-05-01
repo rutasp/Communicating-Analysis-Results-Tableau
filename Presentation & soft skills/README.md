@@ -1,15 +1,15 @@
 # Presentation and soft skills project: Executive presentation & sales overview
 As part of my Data Analytics course at Turing College, I worked on a project for the fictional **AdventureWorks** company. I was tasked with creating an executive-level dashboard and delivering two presentations tailored to different audiences.
 
+You can view the live dashboard here: [Tableau project - Executive & sales](https://public.tableau.com/app/profile/ruta.spaicyte/viz/AdventureWorksSalesdashboard_RS/SALES?publish=yes)
+
 ## Project Description
 
 The goal of the project was to analyze AdventureWorks data and create one interactive dashboard that would support data-driven decision-making for both **executive leadership** and **department heads**. I chose to focus on the **Executive Leadership and Sales** combination.
 
-## My Approach
+## Approach
 
 I developed a **sales performance dashboard** using Tableau Public, based on AdventureWorks sales order data. The dashboard was designed to provide high-level strategic insights for the executive team while allowing for more detailed, tactical use by sales department leads.
-
-You can view the live dashboard here: [Tableau project - Executive & sales](https://public.tableau.com/app/profile/ruta.spaicyte/viz/AdventureWorksSalesdashboard_RS/SALES?publish=yes)
 
 ### Executive Presentation
 
